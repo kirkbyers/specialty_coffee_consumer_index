@@ -1,0 +1,2734 @@
+{
+  "products": [
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is a fascinating coffee and a rare variety, colloquially known as \u2018Typica Americana\u2019. Its distinctive profile caught our attention immediately. In the cup we find a jam-like sweetness, apricot, and an almost salted plum quality.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2025-02-12T22:26:22-05:00",
+      "handle": "2025-rene-arellanos-ore-garancalqui-peru",
+      "id": 8765708370174,
+      "images": [
+        {
+          "created_at": "2025-02-12T22:26:42-05:00",
+          "height": 1876,
+          "id": 43876182425854,
+          "position": 1,
+          "product_id": 8765708370174,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025ReneArellanosOre_Garancalqui-Peru.png?v=1739417204",
+          "updated_at": "2025-02-12T22:26:44-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-02-12T22:30:40-05:00",
+      "tags": [],
+      "title": "2025 Rene Arellanos Ore; Garancalqui - Peru",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": true,
+          "compare_at_price": null,
+          "created_at": "2025-02-12T22:26:22-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46246958465278,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "26.00",
+          "product_id": 8765708370174,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": true,
+          "compare_at_price": null,
+          "created_at": "2025-02-12T22:26:22-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46246958498046,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "71.00",
+          "product_id": 8765708370174,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": true,
+          "compare_at_price": null,
+          "created_at": "2025-02-12T22:26:22-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46246958530814,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "177.50",
+          "product_id": 8765708370174,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis single-estate selection comes from the Mbature family on the southeastern slopes of Mt. Kenya in Embu County. Working with their coffee is an honor\u2014their dedication to quality is truly inspiring. In the cup we find dark fruits, pink grapefruit, and a rich, jam-like sweetness.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2025-02-12T16:55:31-05:00",
+      "handle": "2025-mbature-family-kamavindi-estate-field-blend-kenya",
+      "id": 8765600170238,
+      "images": [
+        {
+          "created_at": "2025-02-12T17:20:24-05:00",
+          "height": 1876,
+          "id": 43875008512254,
+          "position": 1,
+          "product_id": 8765600170238,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025MbatureFamily_KamavindiEstate_FieldBlend-Kenya.png?v=1739398826",
+          "updated_at": "2025-02-12T17:20:26-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-02-12T17:21:18-05:00",
+      "tags": [],
+      "title": "2025 Mbature Family; Kamavindi Estate, Field Blend - Kenya",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": true,
+          "compare_at_price": null,
+          "created_at": "2025-02-12T16:55:31-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46246622331134,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "27.00",
+          "product_id": 8765600170238,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": true,
+          "compare_at_price": null,
+          "created_at": "2025-02-12T16:56:53-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46246622953726,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "74.00",
+          "product_id": 8765600170238,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": true,
+          "compare_at_price": null,
+          "created_at": "2025-02-12T16:56:53-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46246622986494,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "185.00",
+          "product_id": 8765600170238,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is an exceptional expression of the unique SL9 variety. Coffee cultivation in Peru continues to excite, and this specific variety is a standout. Lucio Luque is an inspired producer, and this selection truly shines. In the cup we find Gesha-like florality, limeade, and white grape.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2025-02-06T08:48:35-05:00",
+      "handle": "2025-lucio-luque-peru",
+      "id": 8762479804670,
+      "images": [
+        {
+          "created_at": "2025-02-06T08:48:48-05:00",
+          "height": 1876,
+          "id": 43830521299198,
+          "position": 1,
+          "product_id": 8762479804670,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025LucioLuque-Peru.png?v=1738849730",
+          "updated_at": "2025-02-06T08:48:50-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-02-06T08:52:17-05:00",
+      "tags": [],
+      "title": "2025 Lucio Luque - Peru",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-02-06T08:48:35-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46232329027838,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "28.25",
+          "product_id": 8762479804670,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-02-06T08:48:35-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46232329060606,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "77.50",
+          "product_id": 8762479804670,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-02-06T08:48:35-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46232329093374,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "193.75",
+          "product_id": 8762479804670,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eJose Martinez has been one of the most consistent producers in southern Huila. His coffees are always expressive, and we look forward to them each harvest cycle. In the cup we find red tea, Key lime, and strawberry preserves.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2025-02-06T08:45:08-05:00",
+      "handle": "2025-jose-martinez-el-casino-2nd-harvest-colombia",
+      "id": 8762479444222,
+      "images": [
+        {
+          "created_at": "2025-02-06T08:45:31-05:00",
+          "height": 1876,
+          "id": 43830501802238,
+          "position": 1,
+          "product_id": 8762479444222,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025JoseMartinez_ElCasino_2ndHarvest-Colombia.png?v=1738849532",
+          "updated_at": "2025-02-06T08:45:32-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-02-06T08:52:16-05:00",
+      "tags": [],
+      "title": "2025 Jose Martinez; El Casino, 2nd Harvest - Colombia",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": true,
+          "compare_at_price": null,
+          "created_at": "2025-02-06T08:45:08-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46232328110334,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "25.00",
+          "product_id": 8762479444222,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": true,
+          "compare_at_price": null,
+          "created_at": "2025-02-06T08:45:08-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46232328143102,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "68.50",
+          "product_id": 8762479444222,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": true,
+          "compare_at_price": null,
+          "created_at": "2025-02-06T08:45:08-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46232328175870,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "171.25",
+          "product_id": 8762479444222,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis outstanding Gesha separation comes from producer Anibal Sanchez, who earned 2nd place in the 2021 Cup of Excellence with this coffee. It is a beautifully floral example of what Gesha can be. In the cup we find heady white florals, ripe nectarine, and an exceptionally clean, expressive profile.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2025-02-06T08:40:35-05:00",
+      "handle": "2025-anibal-sanchez-bourbano-la-siria-colombia",
+      "id": 8762477740286,
+      "images": [
+        {
+          "created_at": "2025-02-06T08:40:54-05:00",
+          "height": 1876,
+          "id": 43830476669182,
+          "position": 1,
+          "product_id": 8762477740286,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025AnibalSanchezBourbano_LaSiria-Colombia.png?v=1738849256",
+          "updated_at": "2025-02-06T08:40:56-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-02-06T08:52:15-05:00",
+      "tags": [],
+      "title": "2025 Anibal Sanchez Burbano; La Siria - Colombia",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-02-06T08:40:35-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46232322605310,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "30.25",
+          "product_id": 8762477740286,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-02-06T08:40:35-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46232322638078,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "82.50",
+          "product_id": 8762477740286,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-02-06T08:40:35-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46232322670846,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "206.25",
+          "product_id": 8762477740286,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is our first year purchasing a lot from Oliva. It is a lovely expression of Pink Bourbon grown in San Agust\u00edn, and we look forward to visiting Villa Sofia next season. In the cup we find dark berries, molasses, and a long, complex finish.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2025-01-30T01:34:10-05:00",
+      "handle": "2025-oliva-quinayas-villa-sofia-colombia",
+      "id": 8757164146942,
+      "images": [
+        {
+          "created_at": "2025-01-30T01:34:27-05:00",
+          "height": 1876,
+          "id": 43785788850430,
+          "position": 1,
+          "product_id": 8757164146942,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025OlivaQuinayas_VillaSofia-Colombia.png?v=1738218869",
+          "updated_at": "2025-01-30T01:34:29-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-01-30T02:17:02-05:00",
+      "tags": [],
+      "title": "2025 Oliva Quinayas; Villa Sofia - Colombia",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-30T01:34:11-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46216973811966,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "24.50",
+          "product_id": 8757164146942,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-30T01:34:11-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46216973844734,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "67.00",
+          "product_id": 8757164146942,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-30T01:34:11-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46216973877502,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "167.50",
+          "product_id": 8757164146942,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is the season\u2019s first harvest pass from El Porvenir, and Juan Jim\u00e9nez\u2019s coffee continues to impress. In the cup, we find Key lime, lilac, and lychee.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2025-01-30T01:16:05-05:00",
+      "handle": "2025-juan-jimenez-el-porvenir-new-season-colombia",
+      "id": 8757156446462,
+      "images": [
+        {
+          "created_at": "2025-01-30T01:30:48-05:00",
+          "height": 1876,
+          "id": 43785782788350,
+          "position": 1,
+          "product_id": 8757156446462,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025JuanJimenez_ElPorvenir_NewSeason-Colombia.png?v=1738218650",
+          "updated_at": "2025-01-30T01:30:50-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-01-30T02:17:01-05:00",
+      "tags": [],
+      "title": "2025 Juan Jim\u00e9nez; El Porvenir, New Season - Colombia",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-30T01:16:05-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46216954511614,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "25.00",
+          "product_id": 8757156446462,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-30T01:16:05-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46216954544382,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "68.50",
+          "product_id": 8757156446462,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-30T01:16:05-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46216954577150,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "171.25",
+          "product_id": 8757156446462,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis separation comes from the rolling hills of Musumba, where the rich soils and cool canopies of banana trees create ideal conditions for coffee cultivation. Despite its challenges, this region continues to show exceptional potential. In the cup we find red tea, currant, and clove.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2025-01-03T12:49:48-05:00",
+      "handle": "2025-bukeye-musumba-hill-burundi",
+      "id": 8739306111230,
+      "images": [
+        {
+          "created_at": "2025-01-30T02:15:09-05:00",
+          "height": 1876,
+          "id": 43785967567102,
+          "position": 1,
+          "product_id": 8739306111230,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025Bukeye_MusumbaHill-Burundi_605e47e5-f7f0-4374-b7b5-83cf8ccc15ab.png?v=1738221311",
+          "updated_at": "2025-01-30T02:15:11-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-01-30T02:16:09-05:00",
+      "tags": [],
+      "title": "2025 Bukeye; Musumba Hill - Burundi",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": true,
+          "compare_at_price": null,
+          "created_at": "2025-01-03T12:49:48-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46145322385662,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "25.00",
+          "product_id": 8739306111230,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": true,
+          "compare_at_price": null,
+          "created_at": "2025-01-30T02:15:57-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46217038561534,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "68.50",
+          "product_id": 8739306111230,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": true,
+          "compare_at_price": null,
+          "created_at": "2025-01-30T02:15:57-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46217038594302,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "171.25",
+          "product_id": 8739306111230,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is the first exportable harvest from new producer Victor Dota and one of the best representations of Mejorado from Ecuador we tasted this year. This lot comes from a tiny .5-hectare (1.2-acre) farm, and we are excited to see it mature. In the cup we find Key lime, floral botanicals, and ripe stone fruit.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e",
+      "created_at": "2025-01-22T20:30:38-05:00",
+      "handle": "2025-victor-dota-ecuador",
+      "id": 8753708695806,
+      "images": [
+        {
+          "created_at": "2025-01-22T20:31:13-05:00",
+          "height": 1876,
+          "id": 43748159652094,
+          "position": 1,
+          "product_id": 8753708695806,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025VictorDota-Ecuador.png?v=1737595875",
+          "updated_at": "2025-01-22T20:31:15-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-01-22T20:33:15-05:00",
+      "tags": [],
+      "title": "2025 Victor Dota - Ecuador",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-22T20:30:38-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46202004242686,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "32.50",
+          "product_id": 8753708695806,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-22T20:30:38-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46202004275454,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "89.00",
+          "product_id": 8753708695806,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-22T20:30:38-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46202004308222,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "222.50",
+          "product_id": 8753708695806,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is our first year purchasing coffee from this young farm and family. Now in its fourth year of production, the quality is already exceptional. In the cup we find blood orange, raspberry, and lemon balm.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2025-01-22T20:19:03-05:00",
+      "handle": "2025-lubier-beltran-finca-tijuana-colombia",
+      "id": 8753705779454,
+      "images": [
+        {
+          "created_at": "2025-01-22T20:19:42-05:00",
+          "height": 1876,
+          "id": 43748141400318,
+          "position": 1,
+          "product_id": 8753705779454,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025LubierBeltran_FincaTijuana-Colombia.png?v=1737595184",
+          "updated_at": "2025-01-22T20:19:44-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-01-22T20:22:26-05:00",
+      "tags": [],
+      "title": "2025 Lubier Beltran; Finca Tijuana - Colombia",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-22T20:19:03-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46201999655166,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "24.00",
+          "product_id": 8753705779454,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-22T20:19:03-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46201999687934,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "65.50",
+          "product_id": 8753705779454,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-22T20:19:03-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46201999720702,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "163.75",
+          "product_id": 8753705779454,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cp\u003e\u00a0\u003c\/p\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cdiv\u003e\n\u003cspan data-sheets-root=\"1\"\u003eThis extremely small farm, Pinares, has always been one of our favorites in all of Santa B\u00e1rbara. We are honored to offer this as a separated lot. In the cup we find a ripe and fresh expression of blueberries, hibiscus, bright acidity, and a long finish.\u003c\/span\u003e\u003cbr\u003e\n\u003c\/div\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e",
+      "created_at": "2025-01-15T20:16:55-05:00",
+      "handle": "2025-olvin-moreno-pinares-honduras",
+      "id": 8747893293310,
+      "images": [
+        {
+          "created_at": "2025-01-15T20:17:14-05:00",
+          "height": 1876,
+          "id": 43699417809150,
+          "position": 1,
+          "product_id": 8747893293310,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025OlvinMoreno_Pinares-Honduras.png?v=1736990236",
+          "updated_at": "2025-01-15T20:17:16-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-01-15T20:19:39-05:00",
+      "tags": [],
+      "title": "2025 Olvin Moreno; Pinares - Honduras",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-15T20:16:55-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46178004992254,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "23.75",
+          "product_id": 8747893293310,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-15T20:16:55-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46178005025022,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "65.00",
+          "product_id": 8747893293310,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-15T20:16:55-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46178005057790,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "162.50",
+          "product_id": 8747893293310,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cmeta charset=\"utf-8\"\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cspan data-sheets-userformat='{\"2\":11139,\"3\":{\"1\":0},\"4\":{\"1\":2,\"2\":65280},\"10\":1,\"11\":4,\"12\":0,\"14\":{\"1\":2,\"2\":0},\"16\":10}' data-sheets-value='{\"1\":2,\"2\":\"Gesha is a truly special variety; especially from Panama, and especially from this farm. Its flavors are defined, articulated, unique and elegant. This cup brings intoxicating florals of jasmine and honeysuckle together with a crisp citrus acidity and ripe stone fruit notes in a beautifully integrated experience.\"}'\u003eGesha is a truly special variety; especially from Panama, and especially from this farm. Its flavors are defined, articulated, unique and elegant. This cup brings intoxicating florals of jasmine and honeysuckle together with a crisp citrus acidity and ripe stone fruit notes in a beautifully integrated experience.\u003c\/span\u003e",
+      "created_at": "2025-01-14T13:25:58-05:00",
+      "handle": "2025-the-lamastus-family-elida-estate-gesha-panama",
+      "id": 8746614292734,
+      "images": [
+        {
+          "created_at": "2021-11-24T13:05:33-05:00",
+          "height": 1876,
+          "id": 36192285491454,
+          "position": 1,
+          "product_id": 8746614292734,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/products\/Lamastus.png?v=1637777135",
+          "updated_at": "2021-11-24T13:05:35-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-01-14T13:29:04-05:00",
+      "tags": [],
+      "title": "2025 The Lamastus Family; Elida Estate, Gesha - Panama",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-14T13:28:20-05:00",
+          "featured_image": null,
+          "grams": 227,
+          "id": 46173491626238,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "75.00",
+          "product_id": 8746614292734,
+          "requires_shipping": true,
+          "sku": "",
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-14T13:28:20-05:00",
+          "featured_image": null,
+          "grams": 227,
+          "id": 46173491659006,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "208.00",
+          "product_id": 8746614292734,
+          "requires_shipping": true,
+          "sku": "",
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is a really cool Gesha from a new producer. Discovering new coffees and building relationships with new producers each year keeps this industry vibrant and makes our work endlessly exciting. In the cup we find jasmine, mango, and champagne.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2025-01-09T03:08:56-05:00",
+      "handle": "2025-hector-hernandez-la-cumbre-colombia",
+      "id": 8743262847230,
+      "images": [
+        {
+          "created_at": "2025-01-09T03:09:14-05:00",
+          "height": 1876,
+          "id": 43656753676542,
+          "position": 1,
+          "product_id": 8743262847230,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025HectorHernandez_LaCumbre-Colombia.png?v=1736410156",
+          "updated_at": "2025-01-09T03:09:16-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-01-09T03:12:39-05:00",
+      "tags": [],
+      "title": "2025 Hector Hernandez; La Cumbre - Colombia",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-09T03:08:56-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46160093708542,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "25.50",
+          "product_id": 8743262847230,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-09T03:08:56-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46160093741310,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "70.00",
+          "product_id": 8743262847230,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-09T03:08:56-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46160093774078,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "175.00",
+          "product_id": 8743262847230,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis lot comes from the third harvest pass at Sierra Morena this season. It is bright, crisp, and sweet, with pointed lemonade-like acidity, red currant, and hibiscus.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2025-01-09T03:05:47-05:00",
+      "handle": "2025-wilson-alba-sierra-morena-3rd-harvest-colombia",
+      "id": 8743260782846,
+      "images": [
+        {
+          "created_at": "2025-01-09T03:06:05-05:00",
+          "height": 1876,
+          "id": 43656737784062,
+          "position": 1,
+          "product_id": 8743260782846,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025WilsonAlba_SierraMorena_3rdHarvest-Colombia.png?v=1736409966",
+          "updated_at": "2025-01-09T03:06:06-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-01-09T03:12:38-05:00",
+      "tags": [],
+      "title": "2025 Wilson Alba; Sierra Morena, 3rd Harvest - Colombia",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-09T03:05:47-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46160089022718,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "25.00",
+          "product_id": 8743260782846,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-09T03:05:47-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46160089055486,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "68.50",
+          "product_id": 8743260782846,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-09T03:05:47-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46160089088254,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "171.25",
+          "product_id": 8743260782846,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eGiku\u2019s remote location on the fringes of the Kibira Forest makes it one of the most isolated coffee-producing regions we work with. Despite the challenges, this unique environment yields truly exceptional coffee. In the cup we find a structured profile of stewed fruit, black tea, and warm baking spices.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2025-01-09T03:02:13-05:00",
+      "handle": "2025-ninga-giku-hill-burundi",
+      "id": 8743258849534,
+      "images": [
+        {
+          "created_at": "2025-01-09T03:02:34-05:00",
+          "height": 1876,
+          "id": 43656720941310,
+          "position": 1,
+          "product_id": 8743258849534,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025Ninga_GikuHill-Burundi.png?v=1736409755",
+          "updated_at": "2025-01-09T03:02:35-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-01-09T03:12:37-05:00",
+      "tags": [],
+      "title": "2025 Ninga; Giku Hill - Burundi",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-09T03:02:14-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46160084893950,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "24.25",
+          "product_id": 8743258849534,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-09T03:03:23-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46160086794494,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "66.50",
+          "product_id": 8743258849534,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-09T03:03:23-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46160086827262,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "166.25",
+          "product_id": 8743258849534,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is the season's second harvest pass from Jos\u00e9 Jij\u00f3n\u2019s new farm, Finca San Pedro. Jos\u00e9 is an inspired young coffee producer, and we are excited to see what the future holds for him. Located at some of the highest elevations we have seen for coffee production in Ecuador, San Pedro is one of the most beautiful farms we have ever visited. In the cup we find clean tropical fruit, rose, and raspberry.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2025-01-09T02:58:02-05:00",
+      "handle": "2025-jose-jijon-finca-san-pedro-2nd-harvest-ecuador",
+      "id": 8743256424702,
+      "images": [
+        {
+          "created_at": "2025-01-09T02:58:35-05:00",
+          "height": 1876,
+          "id": 43656702198014,
+          "position": 1,
+          "product_id": 8743256424702,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025JoseJijon_FincaSanPedro_2ndHarvest-Ecuador.png?v=1736409516",
+          "updated_at": "2025-01-09T02:58:36-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-01-09T03:12:36-05:00",
+      "tags": [],
+      "title": "2025 Jose Jijon; Finca San Pedro, 2nd Harvest - Ecuador",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-09T02:58:02-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46160079323390,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "35.00",
+          "product_id": 8743256424702,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is our first year working with Maritza Dota. Some of our favorite coffee profiles come from this unique variety grown in this remarkable country. In the cup we find orange blossom, ripe peach, and raspberry.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e",
+      "created_at": "2025-01-01T22:59:31-05:00",
+      "handle": "2025-maritza-dota-ecuador",
+      "id": 8738172535038,
+      "images": [
+        {
+          "created_at": "2025-01-01T22:59:47-05:00",
+          "height": 1876,
+          "id": 43622716014846,
+          "position": 1,
+          "product_id": 8738172535038,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025MaritzaDota-Ecuador.png?v=1735790389",
+          "updated_at": "2025-01-01T22:59:49-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-01-01T23:02:11-05:00",
+      "tags": [],
+      "title": "2025 Maritza Dota - Ecuador",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-01T22:59:32-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46137688129790,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "29.25",
+          "product_id": 8738172535038,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-01T22:59:32-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46137688162558,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "80.00",
+          "product_id": 8738172535038,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-01T22:59:32-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46137688195326,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "200.00",
+          "product_id": 8738172535038,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eFabian Munoz is a new producer to our project in southern Huila. As much as we try to purchase coffee from the same producers year after year, it is always exciting to discover new producers each season. In the cup we find ripe strawberry, pink grapefruit, and rose hips.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2025-01-01T22:56:12-05:00",
+      "handle": "2025-fabian-munoz-el-deviso-colombia",
+      "id": 8738167718142,
+      "images": [
+        {
+          "created_at": "2025-01-01T22:56:26-05:00",
+          "height": 1876,
+          "id": 43622702317822,
+          "position": 1,
+          "product_id": 8738167718142,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025FabianMunoz_ElDeviso-Colombia.png?v=1735790187",
+          "updated_at": "2025-01-01T22:56:27-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-01-01T23:02:10-05:00",
+      "tags": [],
+      "title": "2025 Fabian Munoz; El Deviso - Colombia",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-01T22:56:12-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46137669779710,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "24.50",
+          "product_id": 8738167718142,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-01T22:56:12-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46137669812478,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "67.00",
+          "product_id": 8738167718142,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-01T22:56:12-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46137669845246,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "167.50",
+          "product_id": 8738167718142,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eOctavio has produced some of our highest-scoring Pink Bourbon from Colombia. His coffees are consistently expressive, with remarkable intensity and complexity. In the cup we find pink lemonade, pomegranate, and hibiscus.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2025-01-01T22:52:27-05:00",
+      "handle": "2025-octavio-rueda-el-mirador-colombia",
+      "id": 8738161524990,
+      "images": [
+        {
+          "created_at": "2025-01-01T22:52:41-05:00",
+          "height": 1876,
+          "id": 43622687637758,
+          "position": 1,
+          "product_id": 8738161524990,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025OctavioRueda_ElMirador-Colombia.png?v=1735789963",
+          "updated_at": "2025-01-01T22:52:43-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-01-01T23:02:09-05:00",
+      "tags": [],
+      "title": "2025 Octavio Rueda; El Mirador - Colombia",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-01T22:52:27-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46137642254590,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "24.50",
+          "product_id": 8738161524990,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-01T22:52:27-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46137642287358,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "67.00",
+          "product_id": 8738161524990,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-01T22:52:27-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46137642320126,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "167.50",
+          "product_id": 8738161524990,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is a new Gesha separation from producer Oscar Garcia, and our first year purchasing this lot. In the cup we find a fruit-forward expression of the Gesha variety, with notes of lychee, pomegranate, and jasmine.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2025-01-01T22:48:01-05:00",
+      "handle": "2025-oscar-hernan-garcia-san-isidro-colombia",
+      "id": 8738155135230,
+      "images": [
+        {
+          "created_at": "2025-01-01T22:48:21-05:00",
+          "height": 1876,
+          "id": 43622666830078,
+          "position": 1,
+          "product_id": 8738155135230,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2025OscarHernanGarcia_SanIsidro-Colombia.png?v=1735789703",
+          "updated_at": "2025-01-01T22:48:23-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2025-01-01T23:02:09-05:00",
+      "tags": [],
+      "title": "2025 Oscar Hernan Garcia; San Isidro - Colombia",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-01T22:48:01-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46137614401790,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "26.00",
+          "product_id": 8738155135230,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-01T22:48:01-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46137614434558,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "71.00",
+          "product_id": 8738155135230,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2025-01-01T22:48:01-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46137614467326,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "177.50",
+          "product_id": 8738155135230,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is a beautifully transparent and clean representation of Mejorado, sourced from Loja in southern Ecuador. The profile is elegant and refined, with layers of soft florals, peach, and lemon.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2024-12-26T21:53:30-05:00",
+      "handle": "2024-abel-salinas-arashi-ecuador",
+      "id": 8732899770622,
+      "images": [
+        {
+          "created_at": "2024-12-26T21:53:42-05:00",
+          "height": 1876,
+          "id": 43598549549310,
+          "position": 1,
+          "product_id": 8732899770622,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2024AbelSalinas_Arashi-Ecuador.png?v=1735268024",
+          "updated_at": "2024-12-26T21:53:44-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2024-12-26T21:55:52-05:00",
+      "tags": [],
+      "title": "2024 Abel Salinas; Arashi - Ecuador",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-26T21:53:30-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46122699620606,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "27.00",
+          "product_id": 8732899770622,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-26T21:53:30-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46122699653374,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "74.00",
+          "product_id": 8732899770622,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-26T21:53:30-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46122699686142,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "185.00",
+          "product_id": 8732899770622,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is the third harvest from Jos\u00e9 and Kyle\u2019s extraordinary project, and it has been fascinating to witness how these profiles are evolving as the trees mature. In the cup we find subtle yellow tropicals, berry-like complexity, and a white peach florality.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2024-12-26T21:50:08-05:00",
+      "handle": "2024-ticuna-el-esquilino-sl28-colombia",
+      "id": 8732895969534,
+      "images": [
+        {
+          "created_at": "2024-12-26T21:50:21-05:00",
+          "height": 1876,
+          "id": 43598522417406,
+          "position": 1,
+          "product_id": 8732895969534,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2024Ticuna_ElEsquilino_SL28-Colombia.png?v=1735267823",
+          "updated_at": "2024-12-26T21:50:23-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2024-12-26T21:55:52-05:00",
+      "tags": [],
+      "title": "2024 Ticuna; El Esquilino, SL28 - Colombia",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-26T21:50:08-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46122694508798,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "30.25",
+          "product_id": 8732895969534,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-26T21:50:58-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46122695524606,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "82.50",
+          "product_id": 8732895969534,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-26T21:50:58-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46122695557374,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "206.25",
+          "product_id": 8732895969534,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eYellow Pacas is a regressive trait within the Pacas variety, making it especially unique to taste this 100% separated lot. In the cup we find pomegranate, hibiscus, and Key lime.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e",
+      "created_at": "2024-12-26T21:46:54-05:00",
+      "handle": "2024-familia-vallecillo-los-primos-yellow-pacas-honduras",
+      "id": 8732892365054,
+      "images": [
+        {
+          "created_at": "2024-12-26T21:47:21-05:00",
+          "height": 1876,
+          "id": 43598511243518,
+          "position": 1,
+          "product_id": 8732892365054,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2024FamiliaVallecillo_LosPrimos_YellowPacas-Honduras.png?v=1735267643",
+          "updated_at": "2024-12-26T21:47:23-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2024-12-26T21:55:51-05:00",
+      "tags": [],
+      "title": "2024 Familia Vallecillo; Los Primos, Yellow Pacas - Honduras",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-26T21:46:54-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46122689822974,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "24.00",
+          "product_id": 8732892365054,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-26T21:46:54-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46122689855742,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "65.50",
+          "product_id": 8732892365054,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-26T21:46:54-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46122689888510,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "163.75",
+          "product_id": 8732892365054,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is one of three very limited lots produced in collaboration with Tamiru and Alo. Only 120 kg of each coffee was produced, making it one of the smallest and most intentional projects we have undertaken in Ethiopia. This coffee is exceptionally complex, with notes of florals, tropical fruits, and tamarind.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e\n\u003cstyle type=\"text\/css\" data-mce-fragment=\"1\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e",
+      "created_at": "2024-12-12T02:24:55-05:00",
+      "handle": "2024-tamiru-tadesse-tesema-sey-x-alo-lot-1-dry-fermented-honey-ethiopia",
+      "id": 8724148093182,
+      "images": [
+        {
+          "created_at": "2024-12-12T02:25:10-05:00",
+          "height": 1876,
+          "id": 43511307665662,
+          "position": 1,
+          "product_id": 8724148093182,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2024TamiruTadesseTesema_SEYxAloLot_1_Dry-FermentedHoney-Ethiopia.png?v=1733988311",
+          "updated_at": "2024-12-12T02:25:11-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2024-12-12T02:26:19-05:00",
+      "tags": [],
+      "title": "2024 Tamiru Tadesse Tesema; SEY x Alo Lot #1, Dry-Fermented Honey - Ethiopia",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-12T02:24:56-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46090550804734,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "33.25",
+          "product_id": 8724148093182,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-12T02:24:56-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46090550837502,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "91.00",
+          "product_id": 8724148093182,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is one of three very limited lots produced in collaboration with Tamiru and Alo. Only 120 kg of each coffee was produced, making it one of the smallest and most intentional projects we have undertaken in Ethiopia. This coffee has a fruit-forward profile of orange candy, champagne, and poached pear.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e\n\u003cstyle type=\"text\/css\" data-mce-fragment=\"1\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e",
+      "created_at": "2024-12-12T02:22:52-05:00",
+      "handle": "2024-tamiru-tadesse-tesema-sey-x-alo-lot-2-controlled-natural-ethiopia",
+      "id": 8724146749694,
+      "images": [
+        {
+          "created_at": "2024-12-12T02:23:05-05:00",
+          "height": 1876,
+          "id": 43511299965182,
+          "position": 1,
+          "product_id": 8724146749694,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2024TamiruTadesseTesema_SEYxAloLot_2_ControlledNatural-Ethiopia.png?v=1733988187",
+          "updated_at": "2024-12-12T02:23:07-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2024-12-12T02:26:18-05:00",
+      "tags": [],
+      "title": "2024 Tamiru Tadesse Tesema; SEY x Alo Lot #2, Controlled Natural - Ethiopia",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-12T02:22:52-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46090548248830,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "33.25",
+          "product_id": 8724146749694,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-12T02:22:52-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46090548281598,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "91.00",
+          "product_id": 8724146749694,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is one of three very limited lots produced in collaboration with Tamiru and Alo. Only 120 kg of each coffee was produced, making it one of the smallest and most intentional projects we have undertaken in Ethiopia. This coffee has the most process-forward profile of the three, with notes of cherry cordial, mulberry, and starfruit.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e\n\u003cstyle type=\"text\/css\" data-mce-fragment=\"1\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e",
+      "created_at": "2024-12-12T02:18:52-05:00",
+      "handle": "2024-tamiru-tadesse-tesema-sey-x-alo-lot-3-blanched-natural-ethiopia",
+      "id": 8724145111294,
+      "images": [
+        {
+          "created_at": "2024-12-12T02:19:11-05:00",
+          "height": 1876,
+          "id": 43511288430846,
+          "position": 1,
+          "product_id": 8724145111294,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2024TamiruTadesseTesema_SEYxAloLot_3_BlanchedNatural-Ethiopia.png?v=1733987953",
+          "updated_at": "2024-12-12T02:19:13-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2024-12-12T02:26:17-05:00",
+      "tags": [],
+      "title": "2024 Tamiru Tadesse Tesema; SEY x Alo Lot #3, Blanched Natural - Ethiopia",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-12T02:18:52-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46090544349438,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "33.25",
+          "product_id": 8724145111294,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-12T02:18:52-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46090544382206,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "91.00",
+          "product_id": 8724145111294,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is a lovely Pink Bourbon selection from our project in San Agust\u00edn. This is our first year purchasing from Deison Rodriguez, and it is an honor to bring this lot to market. In the cup we find marmalade, baking spice, and eucalyptus.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2024-12-12T02:14:56-05:00",
+      "handle": "2024-deison-rodriguez-filadelfia-colombia",
+      "id": 8724143046910,
+      "images": [
+        {
+          "created_at": "2024-12-12T02:15:15-05:00",
+          "height": 1876,
+          "id": 43511275520254,
+          "position": 1,
+          "product_id": 8724143046910,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2024DeisonRodriguez_Filadelfia-Colombia.png?v=1733987717",
+          "updated_at": "2024-12-12T02:15:17-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2024-12-12T02:26:16-05:00",
+      "tags": [],
+      "title": "2024 Deison Rodriguez; Filadelfia - Colombia",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-12T02:14:56-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46090538975486,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "24.50",
+          "product_id": 8724143046910,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-12T02:14:56-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46090539008254,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "67.00",
+          "product_id": 8724143046910,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-12T02:14:56-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46090539041022,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "167.50",
+          "product_id": 8724143046910,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis lot comes from the second harvest pass at Sierra Morena this season. It is bright, crisp, and sweet, with pointed lemonade-like acidity, excellent berry complexity, and floral transparency.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2024-12-04T23:43:45-05:00",
+      "handle": "2024-wilson-alba-sierra-morena-2nd-harvest-colombia",
+      "id": 8716721651966,
+      "images": [
+        {
+          "created_at": "2024-12-04T23:44:15-05:00",
+          "height": 1876,
+          "id": 43468760645886,
+          "position": 1,
+          "product_id": 8716721651966,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2024WilsonAlba_SierraMorena_2ndHarvest-Colombia.png?v=1733373857",
+          "updated_at": "2024-12-04T23:44:17-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2024-12-04T23:46:08-05:00",
+      "tags": [],
+      "title": "2024 Wilson Alba; Sierra Morena, 2nd Harvest - Colombia",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-04T23:43:46-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46068354842878,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "25.00",
+          "product_id": 8716721651966,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-04T23:43:46-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46068354875646,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "68.50",
+          "product_id": 8716721651966,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-04T23:43:46-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46068354908414,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "171.25",
+          "product_id": 8716721651966,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is our second year purchasing coffee from the Kibingo washing station, located in Kayanza\u2014one of the world\u2019s best coffee-growing regions. In the cup we find black tea, Key lime, and clove.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e",
+      "created_at": "2024-12-04T23:40:29-05:00",
+      "handle": "2024-kibingo-burundi-new",
+      "id": 8716715852030,
+      "images": [
+        {
+          "created_at": "2024-12-04T23:41:08-05:00",
+          "height": 1876,
+          "id": 43468746653950,
+          "position": 1,
+          "product_id": 8716715852030,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2024Kibingo-Burundi.png?v=1733373669",
+          "updated_at": "2024-12-04T23:41:09-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2024-12-04T23:46:07-05:00",
+      "tags": [],
+      "title": "2024 Kibingo - Burundi NEW",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-04T23:40:29-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46068338917630,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "23.25",
+          "product_id": 8716715852030,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-04T23:40:29-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46068338950398,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "63.50",
+          "product_id": 8716715852030,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-04T23:40:29-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46068338983166,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "158.75",
+          "product_id": 8716715852030,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    },
+    {
+      "body_html": "\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e\n\u003cp\u003e\u003cspan data-sheets-root=\"1\"\u003eThis is an exciting selection from a young producer in southern Ecuador. At just 23 years old, Pablo cultivates coffee on a small 2-hectare (~5-acre) garden. In the cup we find lemon curd, rose water, and pineapple.\u003c\/span\u003e\u003cbr\u003e\u003c\/p\u003e\n\u003cstyle type=\"text\/css\" data-mce-fragment=\"1\"\u003e\u003c!--\ntd {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}\n--\u003e\u003c\/style\u003e\n\u003cstyle type=\"text\/css\"\u003e\u003c!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--\u003e\u003c\/style\u003e",
+      "created_at": "2024-12-04T23:35:34-05:00",
+      "handle": "2024-pablo-malacatos-nueva-esperanza-ecuador",
+      "id": 8716707332350,
+      "images": [
+        {
+          "created_at": "2024-12-04T23:35:55-05:00",
+          "height": 1876,
+          "id": 43468724044030,
+          "position": 1,
+          "product_id": 8716707332350,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0002\/6352\/0281\/files\/2024PabloMalacatos_NuevaEsperanza-Ecuador.png?v=1733373356",
+          "updated_at": "2024-12-04T23:35:56-05:00",
+          "variant_ids": [],
+          "width": 1865
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "250g",
+            "2lb",
+            "5lb"
+          ]
+        }
+      ],
+      "product_type": "Coffees",
+      "published_at": "2024-12-04T23:46:07-05:00",
+      "tags": [],
+      "title": "2024 Pablo Malacatos; Nueva Esperanza - Ecuador",
+      "updated_at": "2025-02-17T22:03:20-05:00",
+      "variants": [
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-04T23:35:34-05:00",
+          "featured_image": null,
+          "grams": 318,
+          "id": 46068310376702,
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "position": 1,
+          "price": "25.00",
+          "product_id": 8716707332350,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "250g",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-04T23:35:34-05:00",
+          "featured_image": null,
+          "grams": 907,
+          "id": 46068310409470,
+          "option1": "2lb",
+          "option2": null,
+          "option3": null,
+          "position": 2,
+          "price": "68.50",
+          "product_id": 8716707332350,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "2lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        },
+        {
+          "available": false,
+          "compare_at_price": null,
+          "created_at": "2024-12-04T23:35:34-05:00",
+          "featured_image": null,
+          "grams": 2268,
+          "id": 46068310442238,
+          "option1": "5lb",
+          "option2": null,
+          "option3": null,
+          "position": 3,
+          "price": "171.25",
+          "product_id": 8716707332350,
+          "requires_shipping": true,
+          "sku": null,
+          "taxable": false,
+          "title": "5lb",
+          "updated_at": "2025-02-17T22:03:20-05:00"
+        }
+      ],
+      "vendor": "SEY COFFEE"
+    }
+  ]
+}
