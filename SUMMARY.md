@@ -27,11 +27,19 @@ A Rust-based tool to track and analyze specialty coffee products from various ro
    - Product and variant representations
    - Located in `models.rs`
 
+### CI/CD
+1. **GitHub Actions**
+   - Daily automated runs at midnight UTC
+   - Caches dependencies for faster builds
+   - Stores SQLite database as artifacts
+   - Supports manual workflow triggers
+
 ## Current Progress
 - [x] Basic project structure
 - [x] Shopify API integration
 - [x] Database setup
 - [x] Error handling
+- [x] Automated daily data collection
 - [ ] Rate limiting
 - [ ] Data analysis features
 - [ ] Multiple roaster support
