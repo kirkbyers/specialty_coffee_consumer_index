@@ -43,5 +43,5 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: coffee-index-db-${{ github.run_number }}
-        path: data/coffee_index.db
+        path: ./data/coffee_index.db
         retention-days: 90
