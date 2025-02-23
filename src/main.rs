@@ -1,13 +1,7 @@
 use anyhow::{Context, Result};
-use serde::{Deserialize, Serialize};
+use specialty_coffee_consumer_index::{db, models, DB_DIR, DB_NAME};
 use std::fs;
 use std::path::Path;
-
-mod db;
-mod models;
-
-const DB_DIR: &str = "data";
-const DB_NAME: &str = "coffee_products.db";
 
 #[tokio::main]
 async fn main() -> Result<()> {
