@@ -37,7 +37,7 @@ jobs:
       uses: actions-rs/cargo@v1
       with:
         command: run
-        args: --release
+        args: --release --bin specialty_coffee_consumer_index
 
     - name: Upload Database
       uses: actions/upload-artifact@v4
